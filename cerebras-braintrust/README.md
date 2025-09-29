@@ -47,8 +47,7 @@ client = braintrust.wrap_openai(
 
 ## Examples
 
-- [Cerebras-Braintrust-Eval.ipynb](./cerebras_braintrust_eval.ipynb) walks evals, logging, and tracing with Cerebras models and Braintrust.
-- [Cerebras-Braintrust-Scoring.md](./cerebras_braintrust_scoring.md) shows how to create an LLM-as-a-Judge scorer using a Cerebras model and Braintrust.
+- [Cerebras-Braintrust-Eval.ipynb](./Cerebras_Braintrust_Eval.ipynb) walks evals, logging, and tracing with Cerebras models and Braintrust.
 
 ## Further reading
 
