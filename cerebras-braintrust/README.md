@@ -47,7 +47,7 @@ client = braintrust.wrap_openai(
 
 ## Examples
 
-- [Cerebras-Braintrust-Eval.ipynb](./Cerebras_Braintrust_Eval.ipynb) walks evals, logging, and tracing with Cerebras models and Braintrust.
+- [Cerebras-Braintrust-Eval.ipynb](./Cerebras-Braintrust-Eval.ipynb) walks evals, logging, and tracing with Cerebras models and Braintrust.
 
 ## Further reading
 
